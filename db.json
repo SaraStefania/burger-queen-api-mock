@@ -174,30 +174,6 @@
   ],
   "products": [
     {
-      "name": "Café con leche ",
-      "type": "Desayuno",
-      "price": "7.00",
-      "id": 4
-    },
-    {
-      "name": "Sandwich de jamón y queso",
-      "type": "Desayuno",
-      "price": "10.00",
-      "id": 5
-    },
-    {
-      "name": "Jugo de frutas natural",
-      "type": "Desayuno",
-      "price": "7.00",
-      "id": 6
-    },
-    {
-      "name": "Hamburguesa simple",
-      "type": "Almuerzo",
-      "price": "10.00",
-      "id": 7
-    },
-    {
       "name": "Hamburguesa doble",
       "type": "Almuerzo",
       "price": "15.00",
@@ -238,15 +214,21 @@
       "type": "Bebida",
       "price": "10.00",
       "id": 14
+    },
+    {
+      "id": 16,
+      "name": "Café americano",
+      "type": "Bebida",
+      "price": "2.00"
+    },
+    {
+      "id": 17,
+      "name": "Sandwich de jamón y queso",
+      "type": "Acompañamiento",
+      "price": "7.00"
     }
   ],
   "users": [
-    {
-      "email": "anita.borg@systers.xyz",
-      "password": "$2a$10$gVkmcWdnwEBxXj2PWjuv9uDx7BfjiAobbabDAOrH2o8b1i3E7KwR.",
-      "role": "admin",
-      "id": 1
-    },
     {
       "email": "grace.hopper@systers.xyz",
       "password": "$2a$10$JABwR1UAtJqr2DCJ41ypMOgOqlh8eRXmTBO6DXfKG3ybxhABY4rey",
